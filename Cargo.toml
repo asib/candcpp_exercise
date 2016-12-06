@@ -1,0 +1,7 @@
+[package]
+name = "candcpp_exercise"
+version = "0.1.0"
+authors = ["Jacob Fenton <jacob.d.fenton@gmail.com>"]
+
+[dependencies]
+byteorder = "0.5.3"
